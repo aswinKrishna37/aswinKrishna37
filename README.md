@@ -1,4 +1,5 @@
-<h2 align="center">👋 Hi, I'm Aswin</h2>
+<h1 align="left">👋 Hi,</h1>
+<h2 align="left">I am Aswin</h2>
 
 <p align="center">
   <span style="font-size: 20px; color: #00aaff;">
