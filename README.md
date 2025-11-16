@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aswinkrishna37" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="24" height="24" alt="LinkedIn" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="16" height="16" alt="LinkedIn" style="margin: 0 8px;" />
   </a>
   <a href="https://instagram.com/_aswi_nx_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="24" height="24" alt="Instagram" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="16" height="16" alt="Instagram" style="margin: 0 8px;" />
   </a>
   <a href="https://github.com/aswinKrishna37" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="24" height="24" alt="GitHub" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="16" height="16" alt="GitHub" style="margin: 0 8px;" />
   </a>
 </p>
 
