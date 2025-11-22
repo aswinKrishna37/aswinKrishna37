@@ -28,9 +28,13 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" alt="HTML5" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" alt="CSS3" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" alt="JavaScript" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" alt="Python" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" alt="Git" />
 </p>
 
