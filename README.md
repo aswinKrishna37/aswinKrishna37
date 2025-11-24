@@ -18,7 +18,9 @@
 ## About Me
 
 🌱  Currently learning **React, JavaScript, and Web Development**  
+
 🎯  Building projects and improving my skills daily  
+
 💻  Interested in frontend development and Python programming  
 
 
