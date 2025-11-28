@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswin Krishna</h1>
-<p align="center"><i>Student developer passionate about Web Development, Python, and creating things</i></p>
+<p align="center"><i>Student developer passionate about Web Development, Python, Blender and creating things</i></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aswinkrishna37" target="_blank">
