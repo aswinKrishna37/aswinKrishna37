@@ -16,7 +16,7 @@
 ---
 
 ## About Me
-
+🎓  Student at Muthoot Institute of Technology and Science
 🌱  Currently learning **React, JavaScript, and Web Development, Blender**  
 🎯  Building projects and improving my skills daily  
 💻  Interested in frontend development and Python programming  
