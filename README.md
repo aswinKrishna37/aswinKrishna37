@@ -1,5 +1,4 @@
 # 💫 About Me:
-
 🎓 BTech undergraduate<br>🔭 I’m currently working on Web Development<br>🌱 I’m currently learning JavaScript, Blender
 
 
